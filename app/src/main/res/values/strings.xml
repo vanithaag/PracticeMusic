@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice Music</string>
+    <string name="hello_world">Song List</string>
+    <string name="action_settings">Settings</string>
+</resources>
